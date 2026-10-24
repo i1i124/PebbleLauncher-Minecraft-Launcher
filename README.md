@@ -13,9 +13,9 @@
 
 - [x] 版本列表选择
 - [x] 离线登录
-- [x] 自动检查并下载游戏文件（客户端、依赖库、资源）
-- [x] 实时显示下载进度
-- [x] 用户名、版本等设置本地保存
+- [ ] 自动检查并下载游戏文件（客户端、依赖库、资源）（计划中）
+- [ ] 实时显示下载进度（计划中）
+- [ ] 用户名、版本等设置本地保存 （计划中）
 - [ ] 微软正版登录（计划中）
 - [ ] BMCLAPI 镜像加速（计划中）
 - [ ] Java 路径自动探测（计划中）
@@ -57,9 +57,9 @@ A third-party Minecraft launcher optimized for low-end PCs.
 
 - [x] Version list selection
 - [x] Offline login
-- [x] Automatic game file check and download (client, libraries, assets)
-- [x] Real-time download progress
-- [x] Local settings persistence (username, version, etc.)
+- [ ] Automatic game file check and download (client, libraries, assets) (planned)
+- [ ] Real-time download progress (planned)
+- [ ] Local settings persistence (username, version, etc.) (planned)
 - [ ] Microsoft account login (planned)
 - [ ] BMCLAPI mirror acceleration (planned)
 - [ ] Automatic Java path detection (planned)
